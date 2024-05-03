@@ -1,0 +1,29 @@
+:root {
+  /* Primary Colors */
+  --nutmeg: hsl(14, 45%, 36%);
+  --dark-raspberry: hsl(332, 51%, 32%);
+
+  /* Neutral Colors */
+  --rose-white: hsl(330, 100%, 98%);
+  --eggshell: hsl(30, 54%, 90%);
+  --light-grey: hsl(30, 10%, 34%);
+  --wenge-brown: hsl(30, 10%, 34%);
+  --dark-charcoal: hsl(24, 5%, 18%);
+
+  /* Other */
+  --b-rad: 16px;
+  --p-f-size: 16px;
+}
+
+/* fonts */
+@font-face {
+  font-family: "YOung Serif";
+  src: url("./assets/fonts/young-serif/YoungSerif-Regular.ttf");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Outfit";
+  src: url("./assets/fonts/outfit/Outfit-VariableFont_wght.ttf");
+  font-weight: 100 900;
+}
