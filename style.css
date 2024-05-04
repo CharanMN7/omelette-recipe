@@ -27,3 +27,115 @@
   src: url("./assets/fonts/outfit/Outfit-VariableFont_wght.ttf");
   font-weight: 100 900;
 }
+
+body {
+  font-family: "Outfit";
+  color: var(--wenge-brown);
+  margin: 0;
+  background-color: var(--eggshell);
+}
+
+.container {
+  background-color: white;
+  max-width: 44rem;
+  padding: 2rem;
+  margin: 5rem auto;
+  border-radius: 16px;
+}
+
+img {
+  width: 100%;
+  border-radius: var(--in-b-rad);
+}
+
+h1 {
+  font-family: "Young serif";
+  color: var(--dark-charcoal);
+}
+
+section {
+  padding-bottom: 1rem;
+}
+
+.section-heading {
+  font-family: "Young serif";
+  color: var(--nutmeg);
+}
+
+ul,
+ol {
+  padding-left: 1.5rem;
+}
+
+li {
+  padding-left: 1.5rem;
+  vertical-align: middle;
+  margin-bottom: 12px;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.bc {
+  color: var(--nutmeg);
+}
+
+.line {
+  border-bottom: 1px solid #00000033;
+}
+
+#prep-time {
+  background-color: var(--rose-white);
+  padding: 1.5rem 1rem 1.5rem 2rem;
+  border-radius: var(--in-b-rad);
+}
+
+#prep-time > h2 {
+  margin-top: 0;
+  color: var(--dark-raspberry);
+}
+
+#prep-time > ul {
+  margin: 0;
+  padding: inherit;
+  padding: 0rem 2rem !important;
+}
+
+ul > li:last-child {
+  margin: 0;
+}
+
+ol > li:last-child {
+  margin: 0;
+}
+
+ul > li::marker {
+  color: var(--nutmeg);
+  font-size: 12px;
+}
+
+#prep-time > ul > li::marker {
+  color: var(--dark-raspberry);
+}
+
+ol > li::marker {
+  color: var(--nutmeg);
+  font-weight: 700;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+td {
+  width: 50%;
+  padding: 1rem;
+  border-bottom: 1px solid #00000033;
+}
+
+tr > td:nth-child(1) {
+  padding-left: 2rem;
+}
+
