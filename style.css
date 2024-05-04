@@ -11,13 +11,13 @@
   --dark-charcoal: hsl(24, 5%, 18%);
 
   /* Other */
-  --b-rad: 16px;
+  --in-b-rad: 10px;
   --p-f-size: 16px;
 }
 
 /* fonts */
 @font-face {
-  font-family: "YOung Serif";
+  font-family: "Young Serif";
   src: url("./assets/fonts/young-serif/YoungSerif-Regular.ttf");
   font-weight: 400;
 }
