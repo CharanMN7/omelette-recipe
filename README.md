@@ -39,5 +39,5 @@ This challenge helped me revise the semantic HTML markup guidelines that I learn
 ## Author
 
 - Website - [Charan](https://charanmn7.github.io/social-links/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/CharanMN7)
-- Twitter/X - [@yourusername](https://www.twitter.com/CharanMNX)
+- Frontend Mentor - [@CharanMN7](https://www.frontendmentor.io/profile/CharanMN7)
+- Twitter/X - [@CharanMNX](https://www.twitter.com/CharanMNX)
